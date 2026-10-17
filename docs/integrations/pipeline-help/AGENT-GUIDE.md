@@ -1,3 +1,5 @@
+Digest: see [DIGEST.md](DIGEST.md) (OB1-GTM-PLH-GUIDE-DIGEST v1.0)
+
 # pipeline.help agent guide
 
 - **Source:** https://app.pipeline.help/developers/api
